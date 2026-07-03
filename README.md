@@ -1,5 +1,7 @@
 # Git Course With Elzeroo
 
+![Illustrative image](src/imgs/Diagram.png)
+<br>
 ### To Review Status
 
 ```bash
@@ -21,4 +23,9 @@ $ git rm --cashed README.md
 
 ```bash
 $ git commit -m "Create the main project stucture"
+```
+### Show all **Local Branches**
+
+```bash
+$ git branch
 ```
