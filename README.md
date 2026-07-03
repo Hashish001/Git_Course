@@ -1,6 +1,12 @@
 # Git Course With Elzeroo
 
-### add file from **Working_Dirictory** to **Staging Area**
+### To Review Status
+
+```bash
+$ git status
+```
+
+### Add file from **Working_Dirictory** to **Staging Area**
 
 ```bash
 $ git add README.md
@@ -11,7 +17,7 @@ $ git add README.md
 $ git rm --cashed README.md
 ```
 
-### add file from **Staging Area** to **Local Repo**
+### from **Staging Area** to **Local Repo**
 
 ```bash
 $ git commit -m "Create the main project stucture"
