@@ -11,3 +11,8 @@ $ git add README.md
 $ git rm --cashed README.md
 ```
 
+### add file from **Staging Area** to **Local Repo**
+
+```bash
+$ git commit -m "Create the main project stucture"
+```
