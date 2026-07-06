@@ -2,8 +2,13 @@
 
 ![Illustrative image](src/imgs/Diagram.png)
 <br>
-### To Review Status
 
+### To Clone Repo
+```bash
+$ git clone [Repo_URL]
+```
+
+### To Review Status
 ```bash
 $ git status
 ```
